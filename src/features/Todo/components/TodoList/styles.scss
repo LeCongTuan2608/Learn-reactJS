@@ -1,0 +1,9 @@
+.todo-list {
+   & li {
+      cursor: pointer;
+   }
+   & > li.completed {
+      color: rgb(211, 22, 22);
+      font-weight: 700;
+   }
+}

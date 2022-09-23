@@ -1,0 +1,22 @@
+.root {
+   padding-top: 20px;
+   text-align: center;
+   min-width: 200px;
+}
+.avatar {
+   margin: 0 auto;
+   background-color: rgb(201, 65, 65);
+}
+.title {
+   font-weight: 600;
+}
+.submit {
+   margin-top: 10px;
+   width: 100%;
+}
+.message-succsess {
+   color: rgb(74, 198, 84);
+}
+.message-error {
+   color: red;
+}
