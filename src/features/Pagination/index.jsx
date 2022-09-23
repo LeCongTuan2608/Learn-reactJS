@@ -25,6 +25,11 @@ function Pagination(props) {
             Pre
          </button>
          <h1>helloooooooo</h1>
+         <h1>helloooooooo</h1>
+         <h1>helloooooooo</h1>
+         <h1>helloooooooo</h1>
+         <h1>helloooooooo</h1>
+         <h1>helloooooooo</h1>
          <button disabled={page >= totalPages} onClick={() => handlePageChane(page + 1)}>
             Next
          </button>
