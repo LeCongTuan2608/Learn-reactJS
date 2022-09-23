@@ -24,6 +24,7 @@ function Pagination(props) {
          <button disabled={page <= 1} onClick={() => handlePageChane(page - 1)}>
             Pre
          </button>
+         <h1>helloooooooo</h1> //sdfjkhsdkjfh
          <button disabled={page >= totalPages} onClick={() => handlePageChane(page + 1)}>
             Next
          </button>
